@@ -12,8 +12,6 @@ This is a progressive web application, which functionality resembles the one of 
 
 - [Usage](#usage)
 
-- [Demo](#demo)
-
 - [Contribution](#contribution-guidelines)
 
 - [Test](#test-instructions)
@@ -39,7 +37,11 @@ To install the application on your computer simply press the install button on t
 
     And visit the application at localhost:3000
 
-    You could also visit the deployed application:
+    You could also visit the [deployed application](https://mysterious-journey-65730-b8ecfb6ad087.herokuapp.com/)
+
+    Deployed application: https://mysterious-journey-65730-b8ecfb6ad087.herokuapp.com/
+
+    Github Repository: https://github.com/Alejandro-jpeg/PWA-Text-Editor
 
 
 ## Contribution Guidelines
